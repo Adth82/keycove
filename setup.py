@@ -18,4 +18,4 @@ setup(
     author="Jaz Allibhai",
     author_email="jaz.allibhai@gmail.com",
     license="MIT",
-)
+0x493d492961b89b5c0e04f86341825ae37ba3b500)
